@@ -1,0 +1,37 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+header{
+    text-align:center;
+    font-size: large;
+}
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .custom-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #494949;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: 5px;
+    font-weight: bold;
+    transition: background-color 1s ease;
+    margin: 20px;
+    font-size: x-large;
+  }
+  
+  .custom-button:hover {
+    background-color: #7a7a7a;
+  }
+  .header{
+    text-align:center;
+    font-size: 50px;
+    font-family: 'Delicious Handrawn', cursive;
+    color: black;
+  }
+  .menu { filter: brightness(80%);width:100px;height:100px; }
